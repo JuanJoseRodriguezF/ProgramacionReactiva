@@ -2,11 +2,8 @@ package com.reactiva;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-import reactor.util.function.Tuple2;
-
 import java.time.Duration;
 import java.util.Arrays;
-import java.util.List;
 
 class Weather {
     private final String city;
