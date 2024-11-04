@@ -11,23 +11,23 @@ Observamos los operadores map, filter, flatMap, merge, zip con RxJava.
 
 ### Map:
 
-![alt text](img/MapRx.PNG "Logo Title Text 1")
+![alt text](img/MapRx.PNG "Logo Title Text 2")
 
 ### Filter:
 
-![alt text](img/FilterRx.PNG "Logo Title Text 1")
+![alt text](img/FilterRx.PNG "Logo Title Text 3")
 
 ### Flat:
 
-![alt text](img/FlatRx.PNG "Logo Title Text 1")
+![alt text](img/FlatRx.PNG "Logo Title Text 4")
 
 ### Merge:
 
-![alt text](img/MergeRx.PNG "Logo Title Text 1")
+![alt text](img/MergeRx.PNG "Logo Title Text 5")
 
 ### Zip:
 
-![alt text](img/ZipRx.PNG "Logo Title Text 1")
+![alt text](img/ZipRx.PNG "Logo Title Text 6")
 
 ## 2.2 Operador Reactor:
 
@@ -35,23 +35,23 @@ Observamos los operadores map, filter, flatMap, merge, zip con Reactor.
 
 ### Map:
 
-![alt text](img/MapReactor.PNG "Logo Title Text 1")
+![alt text](img/MapReactor.PNG "Logo Title Text 7")
 
 ### Filter:
 
-![alt text](img/FilterReactor.PNG "Logo Title Text 1")
+![alt text](img/FilterReactor.PNG "Logo Title Text 8")
 
 ### Flat:
 
-![alt text](img/FlatReactor.PNG "Logo Title Text 1")
+![alt text](img/FlatReactor.PNG "Logo Title Text 9")
 
 ### Merge:
 
-![alt text](img/MergeReactor.PNG "Logo Title Text 1")
+![alt text](img/MergeReactor.PNG "Logo Title Text 10")
 
 ### Zip:
 
-![alt text](img/ZipReactor.PNG "Logo Title Text 1")
+![alt text](img/ZipReactor.PNG "Logo Title Text 11")
 
 ## Contexto: 
 
@@ -72,4 +72,4 @@ Combinación de diferentes datos de distintas APIs en tiempo real enfocado al cl
 
 ## Salida: 
 
-![alt text](img/Salida.PNG "Logo Title Text 1")
+![alt text](img/Salida.PNG "Logo Title Text 12")
