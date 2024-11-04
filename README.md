@@ -3,7 +3,7 @@
 
 Añadimos las dependencias de RxJava y reactor.
 
-![alt text](img/Configuración.PNG "Logo Title Text 1")
+![alt text](img/Configuración.png "Logo Title Text 1")
 
 ## 2.1 Operador RxJava:
 
